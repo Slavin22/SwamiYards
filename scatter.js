@@ -15,14 +15,15 @@ function init() {
 	}];
 
 	var layout = {
-	  xaxis: {
-	    title: 'TwoQbs Position Rank - Dynasty'
-	  },
-	  yaxis: {
-	    title: 'Swami Yards (Passing + Rushing)'
-	  },
-	  title:'2018 Projected Swami Yards (hover for QB info)',
-	  hovermode: 'closest'
+	 	xaxis: {
+			title: 'TwoQbs Position Rank - Dynasty'
+		},
+		yaxis: {
+			title: 'Swami Yards (Passing + Rushing)'
+		},
+		title:'2018 Projected Swami Yards (hover for QB info)',
+		hovermode: 'closest',
+		height: 600
 	};
 
 	var PLOT = document.getElementById("plot");

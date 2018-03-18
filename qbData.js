@@ -24,7 +24,7 @@ var qbData = [
 {'quarterback': 'Alex Smith', 'team': 'KC', 'age': '33.9', 'posRank': '23', 'swamiYards': '4107'},
 {'quarterback': 'Blake Bortles', 'team': 'JAC', 'age': '26.2', 'posRank': '24', 'swamiYards': '4260'},
 {'quarterback': 'Tyrod Taylor', 'team': 'CLE', 'age': '28.6', 'posRank': '25', 'swamiYards': '4672'},
-{'quarterback': 'Mitchell Trubisky', 'team': 'CHI', 'age': '23.6', 'posRank': '26', 'swamiYards': '0'},
+{'quarterback': 'Mitchell Trubisky', 'team': 'CHI', 'age': '23.6', 'posRank': '26', 'swamiYards': '3709'},
 {'quarterback': 'Sam Darnold', 'team': 'prospect', 'age': '20.8', 'posRank': '27', 'swamiYards': '0'},
 {'quarterback': 'Nick Foles', 'team': 'PHI', 'age': '29.2', 'posRank': '28', 'swamiYards': '3860'},
 {'quarterback': 'Josh Allen', 'team': 'prospect', 'age': '21.8', 'posRank': '29', 'swamiYards': '0'},
@@ -41,7 +41,7 @@ var qbData = [
 {'quarterback': 'Josh McCown', 'team': 'NYJ', 'age': '38.7', 'posRank': '40', 'swamiYards': '4085'},
 {'quarterback': 'Brett Hundley', 'team': 'GB', 'age': '24.8', 'posRank': '41', 'swamiYards': '3452'},
 {'quarterback': 'Mason Rudolph', 'team': 'prospect', 'age': '22.7', 'posRank': '42', 'swamiYards': '0'},
-{'quarterback': 'Luke Falk', 'team': 'prospect', 'age': '23.2', 'posRank': '43', 'swamiYards': '0'},
+{'quarterback': 'Luke Falk', 'team': 'prospect', 'age': '23.2', 'posRank': '43', 'swamiYards': '0'}
 ];
 
 var qbHover = [
@@ -70,7 +70,7 @@ var qbHover = [
 'Alex Smith (KC), Age: 33.9, Proj. Swami Yards: 4107',
 'Blake Bortles (JAC), Age: 26.2, Proj. Swami Yards: 4260',
 'Tyrod Taylor (CLE), Age: 28.6, Proj. Swami Yards: 4672',
-'Mitchell Trubisky (CHI), Age: 23.6, Proj. Swami Yards: 0',
+'Mitchell Trubisky (CHI), Age: 23.6, Proj. Swami Yards: 3709',
 'Sam Darnold (prospect), Age: 20.8, Proj. Swami Yards: 0',
 'Nick Foles (PHI), Age: 29.2, Proj. Swami Yards: 3860',
 'Josh Allen (prospect), Age: 21.8, Proj. Swami Yards: 0',
@@ -87,5 +87,5 @@ var qbHover = [
 'Josh McCown (NYJ), Age: 38.7, Proj. Swami Yards: 4085',
 'Brett Hundley (GB), Age: 24.8, Proj. Swami Yards: 3452',
 'Mason Rudolph (prospect), Age: 22.7, Proj. Swami Yards: 0',
-'Luke Falk (prospect), Age: 23.2, Proj. Swami Yards: 0',
+'Luke Falk (prospect), Age: 23.2, Proj. Swami Yards: 0'
 ];
