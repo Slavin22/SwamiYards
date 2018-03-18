@@ -16,12 +16,12 @@ function init() {
 
 	var layout = {
 	 	xaxis: {
-			title: 'TwoQbs Position Rank - Dynasty'
+			title: 'TwoQBs Position Rank - Dynasty'
 		},
 		yaxis: {
-			title: 'Swami Yards (Passing + Rushing)'
+			title: 'Swami Yards<br>(Passing + Rushing)'
 		},
-		title:'2018 Projected Swami Yards (hover for QB info)',
+		title:'2018 Projected Swami Yards<br>(hover for QB info)<br>(colors represent age, blue = young, red = old)',
 		hovermode: 'closest',
 		height: 600
 	};
